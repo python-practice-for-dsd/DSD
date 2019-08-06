@@ -96,8 +96,8 @@ def add(a, b):
 
 add(1, 2)
 # new_func = decoratar(add)
-# print(type(new_func)) 
-# print(new_func) 
+# print(type(new_func))
+# print(new_func)
 # # <function decoratar.<locals>.new_func at 0x10e3ff158>
 # new_func(1, 2)
 
